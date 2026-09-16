@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "carlremmes.com",
+    "description": "",
+    "home_page_url": "https://carlremmes.com",
+    "feed_url": "https://carlremmes.com/feed.json",
+    "user_comment": "",
+    "icon": "https://carlremmes.com/media/website/logo-cr-final.svg",
+    "author": {
+        "name": "Carl Remmes"
+    },
+    "items": [
+    ]
+}
