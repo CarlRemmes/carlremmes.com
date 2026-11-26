@@ -149,8 +149,7 @@ footer.wrap{padding-top:40px;padding-bottom:40px;text-align:center;font-size:14p
 @media (max-width:720px){.focus{flex-direction:column;gap:16px;padding:26px}}
 
 /* Nachhilfe-Hinweis */
-.aside{display:flex;gap:10px;align-items:center;justify-content:center;max-width:620px;margin:48px auto 0;padding:14px 20px;border:1px solid #E3E5EA;border-radius:999px;font-size:15px;color:var(--text-2);text-align:left}
+.aside{display:flex;gap:10px;align-items:center;justify-content:center;max-width:620px;margin:48px auto 0;padding:14px 20px;border:1px solid #E3E5EA;border-radius:18px;font-size:15px;color:var(--text-2);text-align:left}
 .aside .i{font-size:20px;color:var(--blue)}
 .aside a{color:var(--blue);font-weight:600;text-decoration:none;margin-left:4px;white-space:nowrap}
 .aside a:hover{text-decoration:underline}
-@media (max-width:520px){.aside{border-radius:18px}}
